@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "title": "Ginecologia Acolhedora",
+    "desc": "Cuidado integral focado em pessoas trans e cis com respeito e segurança.",
+    "featured": true
+  },
+  {
+    "id": "02",
+    "title": "Psicologia",
+    "desc": "Apoio à saúde mental com profissionais especializados em questões LGBTQIAPN+.",
+    "featured": false
+  },
+  {
+    "id": "03",
+    "title": "Endocrinologia",
+    "desc": "Acompanhamento hormonal seguro e humanizado para transição e saúde.",
+    "featured": false
+  },
+  {
+    "id": "04",
+    "title": "Dermatologia",
+    "desc": "Tratamentos dermatológicos inclusivos para todos os tipos e tons de pele.",
+    "featured": false
+  }
+]
